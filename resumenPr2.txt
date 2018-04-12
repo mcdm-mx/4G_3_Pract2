@@ -1,0 +1,14 @@
+Práctica 2 - Calculadora Aritmética de 8 bits
+---------------------------------------------
+El objetivo de la siguiente práctica es diseñar,
+programar e implementar un sistema embebido para
+una calculadora binaria de ocho bits con las cua-
+tro operaciones aritméticas básicas, en la cual 
+haremos uso de los microcontroladores de la empre-
+sa "Microchip", en específico el PIC18F4X20. Dis-
+ponemos de 13 leds para poder mostrar nuestros re-
+sultados, donde las operaciones son ingresadas me-
+diante 2 DIP switches de ocho posiciones trabajan-
+do datos enteros de 8 bits, donde programaremos
+este microprocesador con el lenguaje C para un
+buen desempeño.
